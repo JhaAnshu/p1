@@ -479,7 +479,7 @@
 
 .up{
     position: fixed;
-    
+    bottom: 2%;
     right: 0.9%;
     font-size: 80px;
     color: rgb(219, 131, 15);
